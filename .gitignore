@@ -51,8 +51,6 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-config.log
-config.status
 maclib/macres
 maclib/playwave
 maclib/snd2wav
