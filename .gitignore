@@ -51,7 +51,6 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-*.po
 config.log
 config.status
 maclib/macres
@@ -59,3 +58,4 @@ maclib/playwave
 maclib/snd2wav
 Maelstrom
 Maelstrom-netd
+release
